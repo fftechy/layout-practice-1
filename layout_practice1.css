@@ -30,14 +30,12 @@ body {
     height: 100vh;
     
 }
-p{
+h1{
   
   position: absolute;
   display: flex;
   align-items: center;
   justify-content: center;
-  top: 100px;
-  left: 550px;
   font-size: 55px;
   font-weight: bolder;
 }
